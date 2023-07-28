@@ -1,0 +1,17 @@
+# Ignore any kind of database files
+*.db
+*.sqlite
+*.sqlite3
+*.mdb
+*.accdb
+*.sqlitedb
+*.dbf
+*.mdf
+*.ldf
+*.bak
+*.ibd
+*.frm
+*.myd
+*.myi
+*.ibd
+*.postgre
